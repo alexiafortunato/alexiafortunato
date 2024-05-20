@@ -2,7 +2,7 @@
 
 Meu nome é Aléxia Fortunato
 
-- Estou estudando na ![](https://www.alura.com.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -10,4 +10,4 @@ Meu nome é Aléxia Fortunato
 
   alexiafortunato@professor.educacao.sp.gov.br
   
-![](![image](https://github.com/alexiafortunato/alexiafortunato/assets/169692290/be1c1c81-3649-44de-9d90-3f61c8d7772a)
+![image](https://github.com/alexiafortunato/alexiafortunato/assets/169692290/be1c1c81-3649-44de-9d90-3f61c8d7772a)
