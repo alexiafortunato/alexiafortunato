@@ -1,16 +1,13 @@
-### Hi there 👋
+### **Boas vindas ao meu perfil 💙**
 
-<!--
-**alexiafortunato/alexiafortunato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Aléxia Fortunato
 
-Here are some ideas to get you started:
+- Estou estudando na ![](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Você pode entrar em contato comigo 📧
+
+  alexiafortunato@professor.educacao.sp.gov.br
+  
+![](![image](https://github.com/alexiafortunato/alexiafortunato/assets/169692290/be1c1c81-3649-44de-9d90-3f61c8d7772a)
